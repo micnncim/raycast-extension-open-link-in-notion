@@ -11,11 +11,11 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "open-link-in-notion",
+      "name": "index",
       "title": "Open Link in Notion",
       "subtitle": "Open a Notion page link in the Notion app",
-      "description": "",
-      "mode": "view"
+      "description": "Open a Notion page link in the Notion app",
+      "mode": "no-view"
     }
   ],
   "dependencies": {
